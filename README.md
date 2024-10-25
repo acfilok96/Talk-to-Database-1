@@ -5,20 +5,6 @@
 This `Streamlit` framework  interacts with databases and respond with user’s query.
 
 
-## Folder Set up
-
-`Folder`
-
-  `├── Image_Record_SQLDB.db`
-  
-  `├── header.py`
-  
-  `├── functions.py`
-  
-  `├── requirements.txt`
-
-Download the `Folder` file & open it in `Visual Studio Code`. Open  `terminal` and run there
-
 ## Run on terminal
 
 \> `streamlit run header.py`
